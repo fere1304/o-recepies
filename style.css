@@ -1,0 +1,15 @@
+body{
+    background-color: #FFFF33;
+}
+
+.title-class{
+    text-align: center;
+    color: #037e7e;
+    font-size: 50px;
+}
+
+.link{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(81, 9, 133);
+}
